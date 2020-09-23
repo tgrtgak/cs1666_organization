@@ -15,9 +15,9 @@
 1. 9/16 - 9/22
 	* Manager: Noah Vienneau
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Draw Sprite to screen
+		1. Implement basic movement
+		1. Start work on collision detection
 		...
 1. 9/23 - 9/29
 	* Manager: Giovanni Meiser

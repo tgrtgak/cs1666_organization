@@ -10,16 +10,14 @@
 2. 9/9 - 9/15
 	* Manager: Emma Howard
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		A. Create game credits application
 		...
 3. 9/16 - 9/22
 	* Manager: Andrew Thompson
 	* Goals:
-		1. GOAL1
-		1. GOAL2
-		1. GOAL3
+		1. Player movement with a static camera - player will be in the center of the screen with the map moving around them
+		2. Player sprite - design the sprite to display in the middle of the screen during gameplay
+		3. Game loop - a basic main menu (game start), player moves, end game
 		...
 4. 9/23 - 9/29
 	* Manager: Celest Hayden
@@ -43,7 +41,7 @@
 		1. GOAL3
 		...
 7. 10/15 - 10/20
-	* Manager: Anna Beach
+	* Manager: NONE
 	* Goals:
 		1. GOAL1
 		1. GOAL2
@@ -71,7 +69,7 @@
 		1. GOAL3
 		...
 11. 11/11 - 11/17
-	* Manager: NONE
+	* Manager: Anna Beach
 	* Goals:
 		1. GOAL1
 		1. GOAL2
